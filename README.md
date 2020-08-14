@@ -1,2 +1,2 @@
-# isTouching
-detects if the first sprite is touching a second sprite
+# p5.play-boilerplate
+Boiler plate for p5.play
